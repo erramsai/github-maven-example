@@ -55,9 +55,6 @@
 				</configuration>
 				<executions>
 					<execution>
-						<goals>
-							<goal>upload</goal>
-						</goals>
 						<phase>install</phase>
 					</execution>
 				</executions>
